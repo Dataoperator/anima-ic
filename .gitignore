@@ -1,0 +1,14 @@
+# Rust
+target/
+Cargo.lock
+
+# Node
+node_modules/
+dist/
+
+# DFX
+.dfx/
+canister_ids.json
+
+# Environment
+.env
